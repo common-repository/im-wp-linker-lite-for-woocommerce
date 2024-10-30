@@ -1,0 +1,101 @@
+/**
+* IM WP Linker
+* 
+* @author 	Igor Mirochnik
+* @site		http://IM-Cloud.ru/
+* @site		http://Ida-Freewares.ru/
+* @license	GPLv3 or later
+* 
+*/
+
+.im-wp-linker-lite-btn:hover {
+    background: #80af45;
+    cursor: pointer;
+    background-image: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgi…pZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiIC8+PC9zdmc+IA==');
+    background-size: 100%;
+    background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #96c161), color-stop(100%, #80af45));
+    background-image: -webkit-linear-gradient(top, #96c161, #80af45);
+    background-image: -moz-linear-gradient(top, #96c161, #80af45);
+    background-image: -o-linear-gradient(top, #96c161, #80af45);
+    background-image: linear-gradient(top, #96c161, #80af45);
+    -webkit-transition: box-shadow 0.05s ease-in-out;
+    -moz-transition: box-shadow 0.05s ease-in-out;
+    -o-transition: box-shadow 0.05s ease-in-out;
+    transition: box-shadow 0.05s ease-in-out;
+}
+.im-wp-linker-lite-btn {
+    margin-bottom: 5px;
+    border: 1px solid #6d963b;
+    -webkit-box-shadow: inset 0 1px 2px #a2c873;
+    -moz-box-shadow: inset 0 1px 2px #a2c873;
+    box-shadow: inset 0 1px 2px #a2c873;
+    background: #82b346;
+    background-image: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgi…pZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiIC8+PC9zdmc+IA==');
+    background-size: 100%;
+    background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #96c161), color-stop(100%, #82b346));
+    background-image: -webkit-linear-gradient(top, #96c161, #82b346);
+    background-image: -moz-linear-gradient(top, #96c161, #82b346);
+    background-image: -o-linear-gradient(top, #96c161, #82b346);
+    background-image: linear-gradient(top, #96c161, #82b346);
+	color: #fff;
+	border-radius: 2px;
+    font-size: 11px;
+    font-weight: 600;
+    text-shadow: 0 -1px #6f6f6f;
+    padding: 10px;
+}
+.im-wp-lite-info
+{
+	font-style: italic;
+}
+
+.im-wp-lite-h2,
+.postbox .inside h2.im-wp-lite-h2,
+.wrap [class$=icon32]+h2.im-wp-lite-h2,
+.wrap>h2:first-child.im-wp-lite-h2
+{
+	border-bottom: 2px solid #5D6A75;
+}
+
+.im-wp-lite-h3
+{
+	color: #32497D;
+	font-family: Georgia;
+}
+
+.im-wp-lite-th-h3,
+.form-table th.im-wp-lite-th-h3
+{
+	padding: 0px;
+	border-bottom: 2px solid #76C0FF;
+}
+
+.im-wp-lite-author
+{
+	min-width: 255px;
+	border: 1px solid #e5e5e5;
+	-webkit-box-shadow: 0 1px 1px rgba(0,0,0,.04);
+	box-shadow: 0 1px 1px rgba(0,0,0,.04);
+	background: #fff;
+	margin: 10px 20px 0 2px;
+	padding: 20px;
+	color: #38475A;
+	font-size: 13px;
+}
+
+.im-wp-linker-lite-form-container .form-table label 
+{
+    display: block;
+    padding-top: 5px;
+}
+
+.im-wp-linker-lite-choose 
+{
+    padding: 5px;
+    margin-top: 5px;
+}
+
+.im-wp-linker-lite-choose a 
+{
+    padding: 5px;
+}
